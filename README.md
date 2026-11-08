@@ -111,4 +111,4 @@ Arabic (native) · Hebrew (native) · English (fluent)
 
 ---
 
-<p align="left"><i>Always learning — currently: AWS SAA, Spring Boot deep-dive, and Italian 🇮🇹</i></p>
+<p align="left"><i>Always learning — currently: AWS SAA</i></p>
